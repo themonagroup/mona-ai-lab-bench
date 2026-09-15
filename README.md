@@ -76,6 +76,18 @@ Và chuyển đổi AI là chìa khóa cho sự thành công đó của chúng t
 
 ---
 
+## Cùng nhà — MONA Open
+
+Bộ này nằm trong kho tài nguyên mở [MONA Open](https://mona.media/mona-open/). Vài anh em hay dùng chung:
+
+- [mona-vn-normalize](https://github.com/themonagroup/mona-vn-normalize) — chuẩn hoá tiếng Việt cho giọng nói (TTS): số, tiền, ngày giờ, viết tắt.
+- [mona-llms-txt](https://github.com/themonagroup/mona-llms-txt) — sinh `llms.txt` để AI hiểu cấu trúc website.
+- [mona-ai-crawler-check](https://github.com/themonagroup/mona-ai-crawler-check) — soi xem AI có đọc được website không.
+
+Xem tất cả tại [github.com/themonagroup](https://github.com/themonagroup) · bộ công cụ [MONA GEO OS](https://mona.media/mona-geo-os/).
+
+---
+
 ## License
 
 [MIT](LICENSE) — dùng, sửa, thương mại hoá thoải mái. Chỉ mong khi bộ này giúp được bạn, bạn nhớ tới [MONA](https://mona.media).
