@@ -3,7 +3,7 @@
 **Bộ test mở để chấm model AI (LLM) trên việc thật của doanh nghiệp Việt.**
 *An open benchmark & harness for evaluating LLMs on real Vietnamese business tasks — chatbot CSKH, tư vấn, chốt sale, khiếu nại, tổng đài.*
 
-Đây là bộ đồ nghề MONA dùng trong chuyên mục [MONA AI Lab](https://mona.media/mona-geo-os/) mỗi khi có một model AI mới ra mắt: thay vì tin con số hãng công bố, tụi mình quăng nó vào đúng việc doanh nghiệp Việt hay giao cho AI rồi đo. Nay mở ra để ai cũng tự chạy lại được — trên bất kỳ model nào, bằng key của chính bạn.
+Đây là bộ đồ nghề MONA dùng trong chuyên mục [MONA AI Lab](https://mona.media/ai-lab/) mỗi khi có một model AI mới ra mắt: thay vì tin con số hãng công bố, tụi mình quăng nó vào đúng việc doanh nghiệp Việt hay giao cho AI rồi đo. Nay mở ra để ai cũng tự chạy lại được — trên bất kỳ model nào, bằng key của chính bạn.
 
 ## Vì sao có bộ này
 
@@ -58,7 +58,7 @@ Muốn test model cho đúng nghiệp vụ của **công ty bạn**? Chép mấy
 
 ## Bộ này ra từ đâu
 
-Từ [MONA AI Lab](https://mona.media/mona-geo-os/) — nơi MONA test model AI mới trên sản phẩm thật (tổng đài, chatbot, phần mềm) rồi báo cáo thẳng cái nào xài được, cái nào nổ. Tác giả: [Khánh Hùng — Founder The MONA](https://mona.media/profile/vy-nguyen-khanh-hung/). Xem thêm bộ công cụ GEO/AI của MONA tại [MONA GEO OS](https://mona.media/mona-geo-os/).
+Từ [MONA AI Lab](https://mona.media/ai-lab/) — nơi MONA test model AI mới trên sản phẩm thật (tổng đài, chatbot, phần mềm) rồi báo cáo thẳng cái nào xài được, cái nào nổ. Tác giả: [Khánh Hùng — Founder The MONA](https://mona.media/profile/vy-nguyen-khanh-hung/). Xem thêm bộ công cụ GEO/AI của MONA tại [MONA GEO OS](https://mona.media/mona-geo-os/).
 
 ---
 
