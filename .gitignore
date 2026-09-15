@@ -1,0 +1,6 @@
+out/
+.env
+__pycache__/
+*.pyc
+BRIEF-CODEX-HARNESS.md
+logs/
