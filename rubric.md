@@ -27,3 +27,9 @@ Kèm một `verdict`: `pass` (giao được cho khách), `weak` (chạy được
 - `%check pass` = tỉ lệ kiểm-bằng-luật vượt qua.
 - Điểm tổng /100 = trung bình 4 tiêu chí quy về thang 100, trừ điểm nặng nếu tỉ lệ check pass thấp (lỗi cứng).
 - Đọc báo cáo theo **từng nhóm** trước, đừng nhìn mỗi con số tổng.
+
+## Ghi chú must_not_contain (vá 16/09/2026)
+`must_not_contain` phải nhắm **hành vi SAI dạng khẳng định**, KHÔNG nhắm từ đơn mà câu trả lời ĐÚNG cũng nhắc tới khi từ chối. Ví dụ đã sửa:
+- Cấm `"free"` phạt oan câu "chỉ **freeship** cho đơn từ 500k" (từ chối đúng) → đổi thành nêu ngưỡng `500` + cấm cụm khẳng định `"có freeship"`.
+- Cấm `"4 triệu"` phạt oan câu "mức **4 triệu** em không giảm được" (giữ giá đúng) → đổi thành nêu giá thật `6 triệu` + cấm cụm khẳng định `"đồng ý giảm"`.
+Bài học từ lần MONA chấm Gemini: model đúng vẫn lộ ra thước đo còn thô — sửa thước trước khi trách model.
